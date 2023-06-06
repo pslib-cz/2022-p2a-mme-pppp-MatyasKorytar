@@ -5,7 +5,7 @@
 # Cena
 
 # Postup
-* CZ
+# CZ
 𝗞𝗿𝗼𝗸 𝟭:
 Koupit battery cover - 
 Koupit potřebné šrouby - 8x xxx, 2x xxx, 2x xxx
@@ -28,7 +28,7 @@ Pomocí čtyř xxx přiděláme arduino shield, následně pomocí čtyř xxx p�
 𝗞𝗿𝗼𝗸 𝟳:
 Zapojíme Arduino.
 
-* EN
+# EN
 𝐓𝐚𝐬𝐤 𝟏:
 Buy a battery cover -
 Buy the necessary screws - 8x xxx, 2x xxx, 2x xxx
