@@ -2,6 +2,8 @@
 * Sada z 3D tiskárny pro Arduino Shield
 * skládá se ze sedmi částí z 3D tiskárny
 
+#
+![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/MicrosoftTeams-image.png)
 # Cena
 
 # Postup
