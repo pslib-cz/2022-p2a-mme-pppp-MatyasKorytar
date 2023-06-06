@@ -10,7 +10,7 @@
 # CZ
 𝗞𝗿𝗼𝗸 𝟭:
 Koupit battery cover - 
-Koupit potřebné šrouby - 8x xxx, 2x xxx, 2x xxx
+Koupit potřebné šrouby - 10x M3, 2x M4
 
 𝐊𝐫𝐨𝐤 𝟮:
 Vytisknout pomocí 3D tiskárny: PeeWee-bottom, PeeWee-bit_plug 2x, PeeWee-connectors_lock 2x, PeeWee-TOP, PeeWee-battery_base
@@ -19,13 +19,13 @@ Vytisknout pomocí 3D tiskárny: PeeWee-bottom, PeeWee-bit_plug 2x, PeeWee-conne
 Spojíme bottom část s top částí pomocí plugů a connector locků
 
 𝗞𝗿𝗼𝗸 𝟰:
-Pomocí dvou xxx přiděláme na spodní část battery base
+Pomocí dvou M4 přiděláme na spodní část battery base
 
 𝗞𝗿𝗼𝗸 𝟱: 
-Pomocí dvou xxx přiděláme battery cover na battery base
+Pomocí dvou M3 přiděláme battery cover na battery base
 
 𝗞𝗿𝗼𝗸 𝟲: 
-Pomocí čtyř xxx přiděláme arduino shield, následně pomocí čtyř xxx přiděláme arduino shield.
+Pomocí čtyř M3 přiděláme arduino shield, následně pomocí čtyř M3 přiděláme arduino shield.
 
 𝗞𝗿𝗼𝗸 𝟳:
 Zapojíme Arduino.
@@ -33,7 +33,7 @@ Zapojíme Arduino.
 # EN
 𝐓𝐚𝐬𝐤 𝟏:
 Buy a battery cover -
-Buy the necessary screws - 8x xxx, 2x xxx, 2x xxx
+Buy the necessary screws - 10x M3, 2x M4
 
 𝗧𝗮𝘀𝗸 𝟮:
 Print using a 3D printer: PeeWee-bottom, PeeWee-bit_plug 2x, PeeWee-connectors_lock 2x, PeeWee-TOP, PeeWee-battery_base
@@ -42,13 +42,13 @@ Print using a 3D printer: PeeWee-bottom, PeeWee-bit_plug 2x, PeeWee-connectors_l
 Connect the bottom part to the top part using plugs and connector locks.
 
 𝐓𝐚𝐬𝐤 𝟒:
-Attach two xxx to the bottom part of the battery base.
+Attach two M4 to the bottom part of the battery base.
 
 𝐓𝐚𝐬𝐤 𝟓:
-Attach the battery cover to the battery base using two xxx.
+Attach the battery cover to the battery base using two M3.
 
 𝐓𝐚𝐬𝐤 𝟔:
-Attach the Arduino shield using four xxx, then attach another Arduino shield using four xxx.
+Attach the Arduino shield using four M3, then attach another Arduino shield using four xxx.
 
 𝐓𝐚𝐬𝐤 𝟕:
 Connect the Arduino.
