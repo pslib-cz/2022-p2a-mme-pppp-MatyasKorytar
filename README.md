@@ -66,11 +66,15 @@ Connect the bottom part to the top part with plugs and connector locks, add whee
 𝗧𝗮𝘀𝗸 𝟲:
 Use two M3 screws to attach the battery base with the wheel to the bottom part.
 
+![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/lower.png)
+
 𝗧𝗮𝘀𝗸 𝟳: 
 Use two M3 screws to attach the battery cover to the battery base
 
 𝗧𝗮𝘀𝗸 𝟴: 
 Use four M3 short screws to add arduino shield part 1, then use four M3 short screws to add arduino shield part 2.
+
+![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper.png)
 
 𝗧𝗮𝘀𝗸 𝟵:
 Plug in the Arduino.
