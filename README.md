@@ -28,13 +28,17 @@ Připájíme napájecí kabely k battery coveru.
 Spojíme bottom část s top částí pomocí plugů a connector locků, přiděláme kola.
 
 𝗞𝗿𝗼𝗸 𝟲:
-Pomocí dvou M3 vrutů přiděláme na spodní část battery base s kolečkem.
+Pomocí dvou M3 vrutů přiděláme na spodní část battery base s kolečkem. Ve přední části taky přiděláme dva M3 vruty.
+
+![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/lower.png)
 
 𝗞𝗿𝗼𝗸 𝟳: 
 Pomocí dvou M3 šroubů přiděláme battery cover na battery base
 
 𝗞𝗿𝗼𝗸 𝟴: 
 Pomocí čtyř M3 krátkých šroubů přiděláme arduino shield část 1, následně pomocí čtyř M3 krátkých šroubů přiděláme arduino shield část 2.
+
+![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper.png)
 
 𝗞𝗿𝗼𝗸 𝟵:
 Zapojíme Arduino.
