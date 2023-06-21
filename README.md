@@ -1,6 +1,13 @@
 # 𝗞𝗼𝗻𝘃𝗲𝗿𝘇𝗻𝗶́ 𝘀𝗮𝗱𝗮 𝗣𝗲𝗲𝗪𝗲𝗲 𝗽𝗿𝗼 𝗔𝗿𝗱𝘂𝗶𝗻𝗼 𝘀𝗵𝗶𝗲𝗹𝗱 
-* Sada z 3D tiskárny pro Arduino Shield
-* skládá se ze sedmi částí z 3D tiskárny
+* Konverzní sada pro Arduino Shield je navržena tak, aby vám umožnila snadno vytvořit Arduino Shield pomocí 3D tisku.
+* Tato sada je tvořena sedmi různými díly, které jsou vyrobeny pomocí 3D tiskárny.
+* Tyto díly jsou vyrobeny z odolného plastu a jsou navrženy tak, aby přesně pasovaly a držely součásti Arduino Shieldu na správných místech.
+* Použití 3D tisku pro výrobu konverzní sady pro Arduino Shield vám poskytuje flexibilitu a možnost upravit sestavu dle vašich potřeb.
+* Můžete si také přizpůsobit design a přidat vlastní úpravy nebo úpravy dle specifikací vašeho projektu.
+* Tato konverzní sada je vhodná pro všechny, kteří se zajímají o elektroniku, Arduino a 3D tisk.
+  
+# Co je Arduino?
+* Arduino je open-source platforma pro prototypování elektronických projektů. Skládá se z jednoduchého hardware (mikrokontroléru) a příručkového programování. Arduino deska je základním stavebním blokem mnoha elektronických projektů a umožňuje vám snadno ovládat různá zařízení a senzory.
 
 # Thingiverse
 * url: https://www.thingiverse.com/thing:6088851
