@@ -3,7 +3,7 @@
 * skládá se ze sedmi částí z 3D tiskárny
 
 #
-![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/MicrosoftTeams-image.png)
+![Assembled]([https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/MicrosoftTeams-image.png](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/pic.png))
 # Cena
 
 # Postup
