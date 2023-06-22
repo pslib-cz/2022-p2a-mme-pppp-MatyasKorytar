@@ -29,7 +29,7 @@ Buy 3 locking nuts - https://eshop.sharplayers.cz/p/zavitove-vlozky-m3?gclid=Cjw
 Buy castors.
 
 𝗧𝗮𝘀𝗸 𝟮:
-Print with 3D printer: PeeWee-bottom, PeeWee-bit_plug 2x, PeeWee-connectors_lock 2x, PeeWee-TOP, PeeWee-battery_base
+Print with 3D printer: PeeWee-bottom, PeeWee-bit_plug 2x, PeeWee-connectors_lock 2x, PeeWee-TOP, PeeWee-battery_base, PeeWee-IR_lid and PeeWee IR_box
 
 𝗧𝗮𝘀𝗸 𝟯:
 Insert the nuts into the battery base - use solder (approx. 200 °C) to push them into the holes.
@@ -53,7 +53,10 @@ Use four M3 short screws to add arduino shield part 1, then use four M3 short sc
 
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper.png)
 
-𝗧𝗮𝘀𝗸 𝟵:
+Task 9:
+Add IR_lid and IR_box with two M3 screws. Then add senzors.
+
+𝗧𝗮𝘀𝗸 10:
 Plug in the Arduino.
 
 
