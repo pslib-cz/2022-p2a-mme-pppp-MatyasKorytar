@@ -42,7 +42,7 @@ Spojíme bottom část s top částí pomocí plugů a connector locků, přidě
 𝗞𝗿𝗼𝗸 𝟲:
 Pomocí dvou M3 vrutů přiděláme na spodní část battery base s kolečkem. Ve přední části taky přiděláme dva M3 vruty.
 
-![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/lower.png)
+![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/lower1.png)
 
 𝗞𝗿𝗼𝗸 𝟳: 
 Pomocí dvou M3 šroubů přiděláme battery cover na battery base
