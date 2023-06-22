@@ -51,7 +51,7 @@ Use two M3 screws to attach the battery cover to the battery base
 𝗧𝗮𝘀𝗸 𝟴: 
 Use four M3 short screws to add arduino shield part 1, then use four M3 short screws to add arduino shield part 2.
 
-![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper.png)
+![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper1.png)
 
 Task 9:
 Add IR_lid and IR_box with two M3 screws. Then add senzors.
