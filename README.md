@@ -17,6 +17,10 @@ Translated with www.DeepL.com/Translator (free version)
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/pic.png)
 # Price
 
+
+# How to do that...
+* We convert from: https://github.com/microbit-cz/PeeWeeRover-tuned
+
 𝗧𝗮𝘀𝗸 𝟭:
 Buy battery cover - https://www.aliexpress.com/item/32820695697.html 
 Buy the necessary screws - 2x medium M3
