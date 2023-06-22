@@ -48,7 +48,7 @@ Pomocí dvou M3 vrutů přiděláme na spodní část battery base s kolečkem. 
 Pomocí dvou M3 šroubů přiděláme battery cover na battery base
 
 𝗞𝗿𝗼𝗸 𝟴: 
-Pomocí čtyř M3 krátkých šroubů přiděláme arduino shield část 1, následně pomocí čtyř M3 krátkých šroubů přiděláme arduino shield část 2.
+Pomocí čtyř M3 krátkých šroubů přiděláme arduino UNO, následně pomocí čtyř M3 krátkých šroubů přiděláme Controller board.
 
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper1.png)
 
