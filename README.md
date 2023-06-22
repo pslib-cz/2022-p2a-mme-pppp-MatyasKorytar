@@ -15,7 +15,7 @@ Arduino is an open-source platform for prototyping electronic projects. It consi
 * url: https://www.thingiverse.com/thing:6088851
 #
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/pic.png)
-# Price
+
 
 
 # How to do that...
