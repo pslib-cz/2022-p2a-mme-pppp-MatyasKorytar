@@ -23,8 +23,8 @@ Arduino is an open-source platform for prototyping electronic projects. It consi
 
 𝗧𝗮𝘀𝗸 𝟭:
 Buy battery cover - https://www.aliexpress.com/item/32820695697.html 
-Buy the necessary screws - 2x medium M3
-Buy necessary screws - 10x shorter M3 screw, 4x longer M3 screw
+Buy the necessary screws - 4x medium M3
+Buy necessary propeller - 10x shorter M3 screw, 2x longer M3 screw
 Buy 3 locking nuts - https://eshop.sharplayers.cz/p/zavitove-vlozky-m3?gclid=CjwKCAjwv8qkBhAnEiwAkY-ahhCFzXcVWSHtAxjsFpo_Z-ms9L9j5d27C9fSn_GP0Eou4_hHtZs-uRoCSRMQAvD_BwE#1555.
 Buy castors.
 
@@ -41,7 +41,7 @@ Connect the power cables to the battery cover.
 Connect the bottom part to the top part with plugs and connector locks, add wheels.
 
 𝗧𝗮𝘀𝗸 𝟲:
-Use two M3 screws to attach the battery base with the wheel to the bottom part.
+Use two M3 propeller to attach the battery base with the wheel to the bottom part. Then attach with 2 screws to add wheels at the bottom.
 
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/lower1.png)
 
