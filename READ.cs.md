@@ -50,7 +50,7 @@ Pomocí dvou M3 šroubů přiděláme battery cover na battery base
 𝗞𝗿𝗼𝗸 𝟴: 
 Pomocí čtyř M3 krátkých šroubů přiděláme arduino shield část 1, následně pomocí čtyř M3 krátkých šroubů přiděláme arduino shield část 2.
 
-![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper.png)
+![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper1.png)
 
 𝗞𝗿𝗼𝗸 9:
 Přidáme IR_lid a IR_box pomocí dvou šroubů do přední části. Poté přidáme senzory.
