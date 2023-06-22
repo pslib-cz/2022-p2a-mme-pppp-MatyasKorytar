@@ -28,7 +28,7 @@ Koupit 3 zapouštěcí matice - https://eshop.sharplayers.cz/p/zavitove-vlozky-m
 Koupit kolečka.
 
 𝐊𝐫𝐨𝐤 𝟮:
-Vytisknout pomocí 3D tiskárny: PeeWee-bottom, PeeWee-bit_plug 2x, PeeWee-connectors_lock 2x, PeeWee-TOP, PeeWee-battery_base
+Vytisknout pomocí 3D tiskárny: PeeWee-bottom, PeeWee-bit_plug 2x, PeeWee-connectors_lock 2x, PeeWee-TOP, PeeWee-battery_base, PeeWee-IR_lid a PeeWee_IR_box
 
 𝗞𝗿𝗼𝗸 𝟯:
 Zapustit matice do battery base - pomocí pájky (cca 200 °C) zasunout do děr.
@@ -52,5 +52,8 @@ Pomocí čtyř M3 krátkých šroubů přiděláme arduino shield část 1, nás
 
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper.png)
 
-𝗞𝗿𝗼𝗸 𝟵:
+𝗞𝗿𝗼𝗸 9:
+Přidáme IR_lid a IR_box pomocí dvou šroubů do přední části. Poté přidáme senzory.
+
+𝗞𝗿𝗼𝗸 10:
 Zapojíme Arduino.
