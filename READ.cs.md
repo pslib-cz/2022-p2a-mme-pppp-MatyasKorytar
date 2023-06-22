@@ -13,7 +13,8 @@
 * url: https://www.thingiverse.com/thing:6088851
 #
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/pic.png)
-# Cena
+# Konvertujeme z: 
+* url: https://github.com/microbit-cz/PeeWeeRover-tuned
 
 
 # Postup
