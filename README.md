@@ -9,7 +9,7 @@ This conversion kit is suitable for anyone interested in electronics, Arduino an
 # What is Arduino?
 Arduino is an open-source platform for prototyping electronic projects. It consists of simple hardware (microcontroller) and manual programming. The Arduino board is the basic building block of many electronic projects and allows you to easily control various devices and sensors.
 
-Translated with www.DeepL.com/Translator (free version)
+
 
 # Thingiverse
 * url: https://www.thingiverse.com/thing:6088851
