@@ -22,8 +22,8 @@
 # CZ
 𝗞𝗿𝗼𝗸 𝟭:
 Koupit battery cover - https://www.aliexpress.com/item/32820695697.html 
-Koupit potřebné šrouby - 2x střední M3
-Koupit potřebné vruty - 10x kratší M3 vrut,  4x delší M3 vrut
+Koupit potřebné šrouby - 4x střední M3
+Koupit potřebné vruty - 10x kratší M3 vrut,  2x delší M3 vrut
 Koupit 3 zapouštěcí matice - https://eshop.sharplayers.cz/p/zavitove-vlozky-m3?gclid=CjwKCAjwv8qkBhAnEiwAkY-ahhCFzXcVWSHtAxjsFpo_Z-ms9L9j5d27C9fSn_GP0Eou4_hHtZs-uRoCSRMQAvD_BwE#1555.
 Koupit kolečka.
 
@@ -40,7 +40,7 @@ Připájíme napájecí kabely k battery coveru.
 Spojíme bottom část s top částí pomocí plugů a connector locků, přiděláme kola.
 
 𝗞𝗿𝗼𝗸 𝟲:
-Pomocí dvou M3 vrutů přiděláme na spodní část battery base s kolečkem. Ve přední části taky přiděláme dva M3 vruty.
+Pomocí dvou M3 vrutů přiděláme na spodní část battery base s kolečkem. Ve přední části taky přiděláme dva M3 šrouby.
 
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/lower1.png)
 
