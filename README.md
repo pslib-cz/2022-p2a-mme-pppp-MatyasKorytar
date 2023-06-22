@@ -49,7 +49,7 @@ Use two M3 propeller to attach the battery base with the wheel to the bottom par
 Use two M3 screws to attach the battery cover to the battery base
 
 𝗧𝗮𝘀𝗸 𝟴: 
-Use four M3 short screws to add arduino shield part 1, then use four M3 short screws to add arduino shield part 2.
+Use four M3 short screws to add arduino UNO, then use four M3 short screws to add Controller board.
 
 ![Assembled](https://github.com/pslib-cz/2022-p2a-mme-pppp-MatyasKorytar/blob/main/images/upper1.png)
 
